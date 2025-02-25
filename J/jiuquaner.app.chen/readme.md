@@ -11,8 +11,6 @@
 }
 ```
 详细说明：
-- [{"id":"view_ad_title","action":"view_ad_close"}](#idview_ad_titleactionview_ad_close)
-
 ### {"id":"iv_ad","action":"iv_close"}
 关闭优惠券广告
 
