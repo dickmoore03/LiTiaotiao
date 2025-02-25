@@ -10,6 +10,7 @@
 - [com.miui.packageinstaller](./com.miui.packageinstaller/readme.md)（MIUI 应用包管理组件）
 - [com.miui.player](./com.miui.player/readme.md)（MIUI 音乐）
 - [com.miui.systemAdSolution](./com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
+- [com.miui.video](./com.miui.video/readme.md)（小米视频）
 - [com.mm.android.lc](./com.mm.android.lc/readme.md)（乐橙）
 - [com.moji.mjweather](./com.moji.mjweather/readme.md)（墨迹天气）
 - [com.mylikefonts.activity](./com.mylikefonts.activity/readme.md)（字体美化大师）
