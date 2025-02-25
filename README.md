@@ -96,7 +96,7 @@
 🙏 本项目保留了最新版备份，点击查看：[派大星 2.2](./_source/PaiDaXing/)
 
 
-<img src="./litiaotiao-logo.jpg" height = 129 width = 129></img>
+<img src="https://github.com/dickmoore03/LiTiaotiao-Custom-Rules/blob/main/litiaotiao-logo.jpg" height = 129 width = 129></img>
 <img src="./litiaotiao-qrcode.bmp" height = 129 width = 129></img>
 
 
