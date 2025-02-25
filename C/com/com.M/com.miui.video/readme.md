@@ -6,7 +6,6 @@
 ```
 {"popup_rules":
     [
-        {"id":"v_img", "action":"v_icon"}
         {"id""青少年模式","action":"我知道了"}
     ]
 }
