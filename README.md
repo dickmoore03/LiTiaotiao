@@ -100,7 +100,6 @@
 
 ⚠ 下图为盗版李跳跳商店页面，请大家注意甄别！！！
 
-<img src="./litiaotiao-piracy.jpg" height = 500></img>
 
 ### 02. 如何打开 json 文件？
 
