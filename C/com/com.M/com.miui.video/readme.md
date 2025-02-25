@@ -1,4 +1,4 @@
-# com.daimajia.gold（稀土掘金）
+# com.miui.video（小米视频）
 
 ## 基础规则
 
@@ -6,16 +6,15 @@
 ```
 {"popup_rules":
     [
-        {"id":"v_img", "action":v_icon"}
+        {"id":"v_img", "action":"v_icon"}
+        {"id""青少年模式","action":"我知道了"}
     ]
 }
 ```
 详细说明：
-- [{"id":"首次成功发布沸点","action":"iv_close"}](#id首次成功发布沸点actioniv_close)
 
-### {"id":"首次成功发布沸点","action":"iv_close"}
-去除“首次成功发布沸点”提示信息
+### {"id""青少年模式","action":"我知道了"}
+跳过“青少年模式”提示信息
 
-![](./assets/iv_close.jpg)
 
 ## 增强规则
