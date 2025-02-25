@@ -7,9 +7,9 @@
 {"popup_rules":
     [
         {"id":"iv_close","action":"iv_close"},
-
-
-{"id":"来抖音","action":"ad_close"｝
+        {"id":"来抖音","action":"ad_close"},
+        {"id":"在抖音","action":"ad_close"},
+        {"id":"新的惊喜","action":"ad_close"｝
     ]
 }
 ```
