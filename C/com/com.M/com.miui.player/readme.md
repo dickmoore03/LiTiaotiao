@@ -6,7 +6,8 @@
 ```
 {"popup_rules":
     [
-        {"id":"关闭弹框按钮","action":"关闭弹框按钮"},
+        {"id":"关闭弹框按钮","action":"关闭弹框按钮"}
+        {"id":"iv_close_dialog_button","action":"GLOBAL_ACTION_BACK"},,{"id":"iv_close_dialog_button","action":"iv_close_dialog_button"},
     ]
 }
 ```
