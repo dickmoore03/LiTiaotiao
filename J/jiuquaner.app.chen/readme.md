@@ -14,9 +14,9 @@
 - [{"id":"view_ad_title","action":"view_ad_close"}](#idview_ad_titleactionview_ad_close)
 
 ### {"id":"iv_ad","action":"iv_close"}
-关告
+关闭优惠券广告
 
-![](./assets/音频播放界面广告.jpg)
+![](./assets/优惠券广告.jpg)
 
 
 ## 增强规则
