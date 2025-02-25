@@ -6,6 +6,7 @@
 ```
 {"popup_rules":
     [
+        {"id":"iv_close","action":"iv_close"},
         {"id":"iv_close","action":"iv_close"｝
     ]
 }
