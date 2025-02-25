@@ -6,11 +6,10 @@
 ```
 {"popup_rules":
     [
-        {"id":"关闭弹框按钮","action":"关闭弹框按钮"}
-        {"id":"iv_close_dialog_button","action":"GLOBAL_ACTION_BACK"},
+        {"id":"关闭弹框按钮","action":"关闭弹框按钮"},
         {"id":"iv_close_dialog_button","action":"iv_close_dialog_button"},
         {"id":"ad_close_icon","action":"ad_close_icon"},
-        {"id":"开启免费模式","action":"GLOBAL_ACTION_BACK"}
+        {"id":"开启免费模式","action":"GLOBAL_ACTION_BACK"},
         {"id":"看广告续时长","action":"GLOBAL_ACTION_BACK"}
     ]
 }
