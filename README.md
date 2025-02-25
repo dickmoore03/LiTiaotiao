@@ -95,8 +95,6 @@
 
 🙏 本项目保留了最新版备份，点击查看：[派大星 2.2](./_source/PaiDaXing/)
 
-<img src="./litiaotiao-logo.jpg" height = 129 width = 129></img>
-<img src="./litiaotiao-qrcode.bmp" height = 129 width = 129></img>
 
 ⚠ 目前各大应用商店已经出现了盗版 “李跳跳”，不仅无法跳过广告，反而会弹出广告，请大家不要下载。
 
