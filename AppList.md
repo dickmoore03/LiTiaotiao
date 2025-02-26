@@ -313,7 +313,8 @@
   - [com.xiaomi.hm.health](./C/com/com.X/com.xiaomi.hm.health/readme.md)（Zeep Life）
   - [com.xiaomi.market](./C/com/com.X/com.xiaomi.market/readme.md)（小米应用商店）
   - [com.xiaomi.smarthome](./C/com/com.X/com.xiaomi.smarthome/readme.md)（米家）
-  - [com.xiaomi.vipaccount](./C/com/com.X/com.xiaomi.vipaccount/readme.md)（小米社区）
+  - [com.xiaomi.vipaccount](./C/com/com.X/com.xiaomi.vipaccount/readme.md)（小米社区）  
+  - [com.xiaomi.wearable](./C/com/com.X/com.xiaomi.wearable/readme.md)（小米穿戴）
   - [com.ximalaya.ting.android](./C/com/com.X/com.ximalaya.ting.android/readme.md)（喜马拉雅）
   - [com.ximi.weightrecord](./C/com/com.X/com.ximi.weightrecord/readme.md)（体重小本）
   - [com.xingin.xhs](./C/com/com.X/com.xingin.xhs/readme.md)（小红书）
