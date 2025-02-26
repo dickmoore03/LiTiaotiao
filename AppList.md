@@ -177,6 +177,7 @@
   - [com.lemon.lv](./C/com/com.L/com.lemon.lv/readme.md)（剪映）
   - [com.lianjia.beike](./C/com/com.L/com.lianjia.beike/readme.md)（贝壳找房）
   - [com.lijianqiang12.silent](./C/com/com.L/com.lijianqiang12.silent/readme.md)（远离手机）
+  - [com.liuzh.deviceinfo](./C/com.L/com.liuzh.deviceinfo/readme.md)（设备信息）
   - [com.lmiot.autotool](./C/com/com.L/com.lmiot.autotool/readme.md)（免ROOT自动化助手）
   - [com.lolaage.tbulu.tools](./C/com/com.L/com.lolaage.tbulu.tools/readme.md)（两步路户外助手）
   - [com.lp.lightawake](./C/com/com.L/com.lp.lightawake/readme.md)（轻醒）
