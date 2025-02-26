@@ -8,7 +8,7 @@
     [
         {"id":"新版本","action":"取消"},
         {"id":"dialog_full_image","action":"dialog_full_image_close"},
-	    {"id":"draw_dialog_tv_submit","action":"GLOBAL_ACTION_BACK"}
+        {"id":"draw_dialog_tv_submit","action":"GLOBAL_ACTION_BACK"}
     ]
 }
 ```
