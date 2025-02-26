@@ -7,6 +7,7 @@
 {"popup_rules":
     [
         {"id":"发现新版本","action":"GLOBAL_ACTION_BACK"},
+        {"id":"升级完整版","action":"ace"},
         {"id":"送你&新人购物券","action":"GLOBAL_ACTION_BACK"},
     ]
 }
