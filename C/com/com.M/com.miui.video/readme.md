@@ -6,7 +6,8 @@
 ```
 {"popup_rules":
     [
-        {"id":"青少年模式","action":"我知道了"},  {"id":"tv_ad_label","action":"iv_close"}
+        {"id":"青少年模式","action":"我知道了"},        
+        {"id":"tv_ad_label","action":"iv_close"}
     ]
 }
 ```
@@ -16,4 +17,6 @@
 跳过“青少年模式”提示信息
 
 ### {"id":"tv_ad_label","action":"iv_close"}  
+
+
 ## 增强规则
