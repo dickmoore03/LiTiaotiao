@@ -195,7 +195,7 @@
   - [com.miui.packageinstaller](./C/com/com.M/com.miui.packageinstaller/readme.md)（MIUI 应用包管理组件）
   - [com.miui.player](./C/com/com.M/com.miui.player/readme.md)（MIUI 音乐）
   - [com.miui.systemAdSolution](./C/com/com.M/com.miui.systemAdSolution/readme.md)（MIUI 智能服务）
-  - [com.miui.video](./C/com/com.M/com.miui.video/readme.md)（小米视频)
+  - [com.miui.video](./C/com/com.M/com.miui.video/readme.md)（小米视频）
   - [com.mm.android.lc](./C/com/com.M/com.mm.android.lc/readme.md)（乐橙）
   - [com.moji.mjweather](./C/com/com.M/com.moji.mjweather/readme.md)（墨迹天气）
   - [com.mylikefonts.activity](./C/com/com.M/com.mylikefonts.activity/readme.md)（字体美化大师）
